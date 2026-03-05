@@ -1,0 +1,41 @@
+{
+  "versao_bebeto": "1.0",
+  "publico_alvo": "Crianças e Adolescentes",
+  "termos": [
+    {
+      "termo_tecnico": "Juros Compostos",
+      "analogia": "Bola de Neve",
+      "explicacao": "É como uma bola de neve descendo a montanha: quanto mais ela rola (tempo), mais neve (dinheiro) ela gruda e maior ela fica sozinha!"
+    },
+    {
+      "termo_tecnico": "Inflação",
+      "analogia": "O Monstro Faminto",
+      "explicacao": "É um monstrinho invisível que dá uma mordida no valor do seu dinheiro. Se antes um chocolate custava 2 moedas e agora custa 3, a culpa é dele!"
+    },
+    {
+      "termo_tecnico": "CDB",
+      "analogia": "Empréstimo de Brinquedo",
+      "explicacao": "Você empresta seu dinheiro para o Banco (como se fosse um brinquedo raro) e ele te devolve depois com uma 'figurinha extra' de agradecimento."
+    },
+    {
+      "termo_tecnico": "Liquidez",
+      "analogia": "Porta de Saída",
+      "explicacao": "É a velocidade para pegar seu dinheiro de volta. Liquidez diária é como uma porta aberta: você entra e sai quando quiser!"
+    },
+    {
+      "termo_tecnico": "Diversificação",
+      "analogia": "Inventário de RPG",
+      "explicacao": "Não coloque todos os seus itens em uma mochila só. Se você perder a mochila, perde tudo! Melhor espalhar seus equipamentos."
+    },
+    {
+      "termo_tecnico": "Dividendos",
+      "analogia": "Frutos da Árvore",
+      "explicacao": "Você planta uma sementinha (investe em uma empresa) e, de tempos em tempos, ela te dá um fruto (dinheiro) só por você ser o dono da árvore."
+    },
+    {
+      "termo_tecnico": "Ações",
+      "analogia": "Pedaço da Pizza",
+      "explicacao": "A empresa é uma pizza gigante. Quando você compra uma ação, você vira dono de uma fatia. Se a pizzaria fica famosa, sua fatia vale muito mais!"
+    }
+  ]
+}

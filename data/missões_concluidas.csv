@@ -1,0 +1,7 @@
+id_missao,data_conclusao,nome_missao,categoria,recompensa_badge,xp_ganho
+M001,2025-08-10,O Nascimento do Cofrinho,Poupanca,Primeiras Moedas,10
+M002,2025-08-25,O Monstro da Inflacao,Conceitos Basicos,Cacador de Monstros,20
+M003,2025-09-15,Emprestando para o Banco (CDB),Renda Fixa,Investidor Iniciante,30
+M004,2025-10-05,A Magia da Bola de Neve,Juros Compostos,Mestre do Tempo,50
+M005,2025-10-20,Tesouro Direto: O Cofre do Governo,Renda Fixa,Guardiao Real,40
+M006,2025-11-01,Fatias de Pizza (Acoes),Renda Variavel,Socio Mirim,60

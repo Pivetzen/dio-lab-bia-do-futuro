@@ -67,17 +67,7 @@ Os dados são injetados no contexto para que o Bebeto saiba exatamente em que "n
 ```
 
 ```text
-| HISTORICO DE ATENDIMENTO DO CLIENTE | (data/historico_atendimento.csv):
-
-data,canal,tema,resumo,resolvido
-2025-09-15,chat,CDB,Cliente perguntou sobre rentabilidade e prazos,sim
-2025-09-22,telefone,Problema no app,Erro ao visualizar extrato foi corrigido,sim
-2025-10-01,chat,Tesouro Selic,Cliente pediu explicação sobre o funcionamento do Tesouro Direto,sim
-2025-10-12,chat,Metas financeiras,Cliente acompanhou o progresso da reserva de emergência,sim
-2025-10-25,email,Atualização cadastral,Cliente atualizou e-mail e telefone,sim
-```
-```text
-[
+| PRODUTOS PARA ENSINO |
   {
     "nome": "Tesouro Selic",
     "apelido_bebeto": "Escudo de Platina",
@@ -114,7 +104,6 @@ data,canal,tema,resumo,resolvido
     "vibe_do_investimento": "Apenas para testar com moedinhas que não vão fazer falta.",
     "explicacao_bebeto": "É o Velozes e Furiosos do dinheiro. É emocionante, mas só entre se seus pais deixarem e se você tiver estômago!"
   }
-]
 ```
 ---
 

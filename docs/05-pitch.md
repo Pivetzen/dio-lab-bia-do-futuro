@@ -5,35 +5,30 @@
  
 ## Roteiro Sugerido
 
-### 1. O Problema (30 seg)
-> Qual dor do cliente você resolve?
+### 1. Por trás do sistema (50 seg)
+> Como e para que serve o Bebeto?
 
-[Sua descrição aqui]
+Acompanhamento financeiro por meio de utilização de chatbot local.
 
-### 2. A Solução (1 min)
-> Como seu agente resolve esse problema?
-
-[Sua descrição aqui]
-
-### 3. Demonstração (1 min)
+### 2. Demonstração (50 seg)
 > Mostre o agente funcionando (pode ser gravação de tela)
 
-[Descreva o que será mostrado]
+Funcionando na janela do google chrome.
 
-### 4. Diferencial e Impacto (30 seg)
-> Por que essa solução é inovadora e qual é o impacto dela na sociedade?
+### 3. Comentários finais (1 min)
+> O que mais é preciso saber?
 
-[Sua descrição aqui]
+Explicação do que foi feito com o Bebeto, com detalhes de Sistemas e Diretrizes.
 
 ---
 
 ## Checklist do Pitch
 
-- [ ] Duração máxima de 3 minutos
-- [ ] Problema claramente definido
-- [ ] Solução demonstrada na prática
-- [ ] Diferencial explicado
-- [ ] Áudio e vídeo com boa qualidade
+- [X] Duração máxima de 3 minutos
+- [X] Problema claramente definido
+- [X] Solução demonstrada na prática
+- [X] Diferencial explicado
+- [X] Áudio e vídeo com boa qualidade
 
 ---
 
@@ -41,4 +36,4 @@
 
 > Cole aqui o link do seu pitch (YouTube, Loom, Google Drive, etc.)
 
-[Link do vídeo]
+[[Link do vídeo](https://drive.google.com/file/d/1KQfQ3T1RnxBNz-RyJ1BefXVLK9Qcl16E/view?usp=sharing)]

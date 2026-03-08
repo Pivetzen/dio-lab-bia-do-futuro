@@ -5,7 +5,7 @@
 ### Problema
 > Qual problema financeiro seu agente resolve?
 
-A falta de contato precoce com conceitos de economia gera adultos com dificuldades em gerir o próprio dinheiro, entender juros e planejar o futuro.
+A falta de contato e orientação educativa para crianças e adolescentes no contexto financeiro.
 
 ### Solução
 > Como o agente resolve esse problema de forma proativa?

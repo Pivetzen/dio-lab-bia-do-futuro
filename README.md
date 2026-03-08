@@ -78,6 +78,8 @@ Os assistentes virtuais no setor financeiro estão evoluindo de simples chatbots
 
 📄 **Template:** [`docs/05-pitch.md`](./docs/05-pitch.md)
 
+[Assista ao Pitch](https://drive.google.com/file/d/1KQfQ3T1RnxBNz-RyJ1BefXVLK9Qcl16E/view?usp=sharing)
+
 ---
 
 ## Estrutura do Repositório

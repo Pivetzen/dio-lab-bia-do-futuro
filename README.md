@@ -33,14 +33,12 @@ Defina **o que** seu agente faz e **como** ele funciona:
 
 Utilize os **dados mockados** disponíveis na pasta [`data/`](./data/) para alimentar seu agente:
 
-| Arquivo | Formato | Descrição |
-|---------|---------|-----------|
-| `transacoes.csv` | CSV | Histórico de transações do cliente |
-| `historico_atendimento.csv` | CSV | Histórico de atendimentos anteriores |
-| `perfil_investidor.json` | JSON | Perfil e preferências do cliente |
-| `produtos_financeiros.json` | JSON | Produtos e serviços disponíveis |
-
-Você pode adaptar ou expandir esses dados conforme seu caso de uso.
+| Arquivo | Formato | Utilização no Agente |
+|---------|---------|---------------------|
+| `jovem_perfil.json` | JSON | Identificar idade, objetivos (ex: celular novo) e quem é o responsável validador |
+| `missões_concluidas.csv` | CSV | Histórico de aprendizado (quais aulas o jovem já "zerou") |
+| `dicionario_kids.json` | JSON | Tradução de termos técnicos para analogias simples (ex: Dividendos = Frutos da árvore) |
+| `extrato_mesada.csv` | CSV | Analisar como o jovem está distribuindo sua mesada entre gastos e poupança |
 
 📄 **Template:** [`docs/02-base-conhecimento.md`](./docs/02-base-conhecimento.md)
 
